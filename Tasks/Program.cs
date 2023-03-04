@@ -86,7 +86,7 @@ namespace Tasks
                 WriteLine(); WriteLine();
             }
             Write("Число на которые умножится матрица: ");
-            int n =Convert.ToInt32(Console.ReadLine());
+            int n =Convert.ToInt32(ReadLine());
             for (int i = 0; i < arr.GetLength(0); i++)
             {
                 for (int j = 0; j < arr.GetLength(1); j++)
