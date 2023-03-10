@@ -11,7 +11,7 @@ namespace Task_3
         {
             string _show;
             string _description;
-        string _sound;
+            string _sound;
             public Device(string name, string description, string sound)
             {
                 _show = name;
