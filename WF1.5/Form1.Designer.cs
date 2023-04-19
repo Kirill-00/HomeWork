@@ -39,6 +39,7 @@
             this.button.TabIndex = 0;
             this.button.Text = "НАЖМИ!";
             this.button.UseVisualStyleBackColor = true;
+            this.button.MouseMove += new System.Windows.Forms.MouseEventHandler(this.button_MouseMove);
             // 
             // Form1
             // 
