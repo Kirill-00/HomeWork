@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestOil", "BestOil\BestOil.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF1", "WPF1\WPF1.csproj", "{C6980908-4B11-41F1-B9E9-887956472274}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF2", "WPF2\WPF2.csproj", "{C0D9B73E-2861-4192-8813-C984D6E297F7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{C6980908-4B11-41F1-B9E9-887956472274}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6980908-4B11-41F1-B9E9-887956472274}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6980908-4B11-41F1-B9E9-887956472274}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0D9B73E-2861-4192-8813-C984D6E297F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0D9B73E-2861-4192-8813-C984D6E297F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0D9B73E-2861-4192-8813-C984D6E297F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0D9B73E-2861-4192-8813-C984D6E297F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
